@@ -55,9 +55,9 @@ hotTools:
     description: 面向开源及私有软件项目的托管平台。
 
 myBlog:
-  - name: HCLonely Blog
-    url: https://blog.hclonely.com/
-    img: /images/logos/myBlog.png
+  - name: Imgood Blog
+    url: https://www.imgood.top/
+    img: /images/logos/blog-logo.jpg
     description: 一个懒人的博客。
 
 about:
