@@ -1,6 +1,7 @@
 ---
 title: about
 date: 2020-09-23 12:25:03
+type: 'about'
 ---
 # 欢迎访问Imgood的导航页
 

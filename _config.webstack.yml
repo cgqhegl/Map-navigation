@@ -58,7 +58,7 @@ myBlog:
   - name: Imgood Blog
     url: https://www.imgood.top/
     img: /images/logos/blog-logo.jpg
-    description: 一个懒人的博客。
+    description: 交流分享互联网科技
 
 about:
   url: /about/
@@ -67,15 +67,16 @@ about:
 
 aboutPage:
   website:
-    head: 关于本站
-    html: '<blockquote><p>本站是hexo主题<a href="https://github.com/HCLonely/hexo-theme-webstack">hexo-theme-webstack</a>的demo站。</p></blockquote>'
+    head: 欢迎访问Imgood的导航页
+    html: '<blockquote><p>这是一个WebStack网址导航网站，源于ViggoZ的开源项目，开源地址<a href="https://github.com/WebStackPage/WebStackPage.github.io" target="_blank" rel="noopener">WebStackPage</a>。</p>
+ 本导航站基于hexo博客程序、<a href="https://github.com/HCLonely/hexo-theme-webstack" target="_blank" rel="noopener">hexo-theme-webstack</a>主题模板、github、vercel 搭建而成。</p></blockquote>'
   webmaster:
     head: 关于站长
-    name: HCLonely
-    url: https://blog.hclonely.com/
-    img: /images/logos/myblog.png
-    description: 懒人一个
-    html: '<br /><blockquote><p>本站是<a href="https://github.com/HCLonely">HCLonely</a>基于<a href="https://github.com/WebStackPage/WebStackPage.github.io">WebStackPage</a>项目做的一款<a href="https://hexo.io/">Hexo</a>主题。</p></blockquote>'
+    name: Imgood Blog
+    url: https://www.imgood.top/
+    img: /images/logos/blog-logo.jpg
+    description: 交流分享互联网科技
+    html: '<br /><blockquote><p>同时欢迎访问我的博客<a href="https://www.imgood.top" target="_blank" rel="noopener"> ImGood Blog</a> 获取更多内容。</p></blockquote>'
 
 since: 2020
 
