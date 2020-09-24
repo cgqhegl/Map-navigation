@@ -48,11 +48,11 @@ hotTools:
   - name: Imgood Blog
     url: https://www.imgood.top/
     img: /images/logos/blog-logo.jpg
-    description: 交流分享互联网科技
-  - name: Github
-    url: https://github.com/
-    img: /images/logos/github.png
-    description: 面向开源及私有软件项目的托管平台。
+    description: 我的博客
+  - name: 群晖DSM
+    url: https://nas.imgood.top:5001/
+    img: /images/logos/Settings.png
+    description: 群晖管理器
   - name: Github
     url: https://github.com/
     img: /images/logos/github.png
