@@ -64,7 +64,7 @@ devTools:
     url: https://search.google.com/search-console/about
     img: /images/logos/google.png
     description: 
-   - name: 站长工具
+  - name: 站长工具
     url: http://tool.chinaz.com/
     img: /images/logos/zz.png
     description:
