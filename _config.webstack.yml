@@ -13,7 +13,7 @@ flag:
 
 
 menu:
-  - name: 常用工具
+  - name: 我的网站
     icon: far fa-star
     config: hotTools
   - name: 我的博客
@@ -25,9 +25,7 @@ menu:
       - name: 开发工具
         icon: fas fa-tools
         config: devTools
-      - name: 我的博客
-        icon: fas fa-blog
-        config: myBlog
+      
 
 devTools:
   - name: Github
@@ -47,6 +45,10 @@ devTools:
     img: /images/logos/github.png
     description: 面向开源及私有软件项目的托管平台。
 hotTools:
+  - name: Imgood Blog
+    url: https://www.imgood.top/
+    img: /images/logos/blog-logo.jpg
+    description: 交流分享互联网科技
   - name: Github
     url: https://github.com/
     img: /images/logos/github.png
