@@ -16,9 +16,9 @@ menu:
   - name: 我的网站
     icon: far fa-star
     config: hotTools
-  - name: 我的博客
+  - name: 资讯网站
     icon: fas fa-blog
-    config: myBlog
+    config: news
   - name: 开发工具
     icon: fas fa-tools
     config: devTools
@@ -82,12 +82,35 @@ hotTools:
     url: https://nas.imgood.top:265/
     img: /images/logos/bendi.png
     description: 本地服务管理页    
-myBlog:
-  - name: Imgood Blog
+news:
+  - name: 美国之音
+    url: https://www.voachinese.com/
+    img: /images/logos/voa.jpg
+    description: 中文
+  - name: BBC
+    url: https://www.bbc.com/zhongwen/simp
+    img: /images/logos/bbc.png
+    description: 中文
+  - name: 纽约时报
+    url: https://cn.nytimes.com/
+    img: /images/logos/newyork.png
+    description: 中文
+  - name: 路透社
+    url: https://cn.reuters.com/
+    img: /images/logos/reuters.png
+    description: 中文
+  - name: 华尔街日报
     url: https://www.imgood.top/
-    img: /images/logos/blog-logo.jpg
-    description: 交流分享互联网科技
-
+    img: /images/logos/wsj.png
+    description: 中文
+  - name: FT中文网
+    url: http://m.ftchinese.com/
+    img: /images/logos/ft.png
+    description: 中文  
+  - name: 联合早报
+    url: https://www.zaobao.com.sg/
+    img: /images/logos/zaobao.png
+    description: 中文    
 about:
   url: /about/
   icon: far fa-heart
