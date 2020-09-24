@@ -19,10 +19,10 @@ menu:
   - name: 资讯网站
     icon: fas fa-blog
     config: news
-  - name: 开发工具
+  - name: 通讯工具
     icon: fas fa-paper-plane
     config: imTools
-  - name: 开发工具
+  - name: 网站工具
     icon: fas fa-tools
     config: devTools
       
