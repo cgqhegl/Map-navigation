@@ -53,38 +53,38 @@ hotTools:
     url: https://nas.imgood.top:5001/
     img: /images/logos/Settings.png
     description: 群晖管理器
-  - name: Github
-    url: https://github.com/
-    img: /images/logos/github.png
-    description: 面向开源及私有软件项目的托管平台。
-  - name: Github
-    url: https://github.com/
-    img: /images/logos/github.png
-    description: 面向开源及私有软件项目的托管平台。
-  - name: Github
-    url: https://github.com/
-    img: /images/logos/github.png
-    description: 面向开源及私有软件项目的托管平台。
-  - name: Github
-    url: https://github.com/
-    img: /images/logos/github.png
-    description: 面向开源及私有软件项目的托管平台。
-  - name: Github
-    url: https://github.com/
-    img: /images/logos/github.png
-    description: 面向开源及私有软件项目的托管平台。
-  - name: Github
-    url: https://github.com/
-    img: /images/logos/github.png
-    description: 面向开源及私有软件项目的托管平台。
-  - name: Github
-    url: https://github.com/
-    img: /images/logos/github.png
-    description: 面向开源及私有软件项目的托管平台。
-  - name: Github
-    url: https://github.com/
-    img: /images/logos/github.png
-    description: 面向开源及私有软件项目的托管平台。    
+  - name: 路由器
+    url: https://nas.imgood.top:8443/
+    img: /images/logos/Route.png
+    description: AC86U管理
+  - name: 图书站
+    url: https://nas.imgood.top:8083/
+    img: /images/logos/Calibre.png
+    description: Calibre-Web图书管理
+  - name: 影视站
+    url: https://nas.imgood.top:8920/
+    img: /images/logos/Emby.png
+    description: Emby影视管理
+  - name: PT下载
+    url: https://nas.imgood.top:8999/
+    img: /images/logos/QB.png
+    description: Qb下载管理
+  - name: 云盘
+    url: https://nas.imgood.top:5091/
+    img: /images/logos/yunpan.png
+    description: onedrive云盘
+  - name: 图床
+    url: https://nas.imgood.top:10000/
+    img: /images/logos/tuku.png
+    description: chevereto图床管理
+  - name: RSS阅读器
+    url: https://nas.imgood.top:5111/
+    img: /images/logos/ttrss.png
+    description: TTRSS订阅管理
+  - name: 本地管理页
+    url: https://nas.imgood.top:265/
+    img: /images/logos/bendi.png
+    description: 本地服务管理页    
 myBlog:
   - name: Imgood Blog
     url: https://www.imgood.top/
