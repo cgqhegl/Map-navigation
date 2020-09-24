@@ -1,0 +1,32 @@
+- name: Gmail
+  url: https://gmail.com/
+  img: /images/logos/gmail.jpg
+  description: 
+- name: 腾讯企业邮
+  url: https://exmail.qq.com/
+  img: /images/logos/qqmail.png
+  description:
+- name: QQ邮箱
+  url: https://mail.qq.com/
+  img: /images/logos/qq.png
+  description:  
+- name: 126邮箱
+  url: https://mail.126.com/
+  img: /images/logos/126.jpg
+  description: 
+- name: Protonmail邮箱
+  url: https://mail.protonmail.com/
+  img: /images/logos/Protonmail.jpg
+  description:
+- name: Twitter
+  url: https://twitter.com/
+  img: /images/logos/twitter.png
+  description:
+- name: Facebook
+  url: https://facebook.com/
+  img: /images/logos/facebook.png
+  description:
+- name: Youtube
+  url: https://youtube.com/
+  img: /images/logos/youtube.png
+  description:   

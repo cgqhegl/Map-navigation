@@ -20,6 +20,9 @@ menu:
     icon: fas fa-blog
     config: news
   - name: 开发工具
+    icon: fas fa-paper-plane
+    config: imTools
+  - name: 开发工具
     icon: fas fa-tools
     config: devTools
       
@@ -39,7 +42,7 @@ devTools:
     description: 
   - name: 阿里云
     url: https://www.aliyun.com/
-    img: /images/logos/aliyun.png
+    img: /images/logos/ali.png
     description:
   - name: Namecheap
     url: https://www.namecheap.com/
@@ -63,7 +66,7 @@ devTools:
     description: 
   - name: 站长工具
     url: http://tool.chinaz.com/
-    img: /images/logos/zz.png
+    img: /images/logos/zz.jpeg
     description:
   - name: V2EX
     url: https://www.v2ex.com/
