@@ -145,7 +145,11 @@ news:
   - name: 联合早报
     url: https://www.zaobao.com.sg/
     img: /images/logos/zaobao.png
-    description: 中文    
+    description: 中文
+  - name: 265上网导航
+    url: https://www.265.com
+    img: /images/logos/265.png
+    description:     
 about:
   url: /about/
   icon: far fa-heart
