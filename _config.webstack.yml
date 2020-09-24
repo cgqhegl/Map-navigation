@@ -19,6 +19,9 @@ menu:
   - name: 资讯网站
     icon: fas fa-blog
     config: news
+  - name: 通讯工具
+    icon: fas fa-paper-plane
+    config: im    
   - name: 开发工具
     icon: fas fa-tools
     config: devTools
@@ -28,19 +31,51 @@ devTools:
   - name: Github
     url: https://github.com/
     img: /images/logos/github.png
-    description: 面向开源及私有软件项目的托管平台。
-  - name: Github
-    url: https://github.com/
-    img: /images/logos/github.png
-    description: 面向开源及私有软件项目的托管平台。
-  - name: Github
-    url: https://github.com/
-    img: /images/logos/github.png
-    description: 面向开源及私有软件项目的托管平台。
-  - name: Github
-    url: https://github.com/
-    img: /images/logos/github.png
-    description: 面向开源及私有软件项目的托管平台。
+    description: 代码仓库
+  - name: Vercel
+    url: https://vercel.com/
+    img: /images/logos/vs.png
+    description: 
+  - name: 腾讯云
+    url: https://cloud.tencent.com/
+    img: /images/logos/txyun.png
+    description: 
+  - name: 阿里云
+    url: https://www.aliyun.com/
+    img: /images/logos/aliyun.png
+    description:
+  - name: Namecheap
+    url: https://www.namecheap.com/
+    img: /images/logos/namecheap.png
+    description:
+  - name: Cloudflare
+    url: https://dash.cloudflare.com/
+    img: /images/logos/cloudflare.png
+    description:
+  - name: Freenom
+    url: https://my.freenom.com/
+    img: /images/logos/freenom.png
+    description:    
+  - name: 百度站长
+    url: https://ziyuan.baidu.com/
+    img: /images/logos/baidu.png
+    description: 
+  - name: Google站长
+    url: https://search.google.com/search-console/about
+    img: /images/logos/google.png
+    description: 
+   - name: 站长工具
+    url: http://tool.chinaz.com/
+    img: /images/logos/zz.png
+    description:
+  - name: V2EX
+    url: https://www.v2ex.com/
+    img: /images/logos/v2ex.png
+    description:
+  - name: Tinypng
+    url: https://tinypng.com/
+    img: /images/logos/tinypng.png
+    description:    
 hotTools:
   - name: Imgood Blog
     url: https://www.imgood.top/
