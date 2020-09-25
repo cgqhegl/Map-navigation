@@ -62,10 +62,10 @@ devTools:
     description: 代码仓库
   
 hotTools:
-  - name: Github
-    url: https://github.com/
-    img: /images/logos/github.png
-    description: 代码仓库
+  - name: Imgood Blog
+    url: https://www.imgood.top
+    img: /images/logos/blog-logo.jpg
+    description: 我的博客
   - name: Github
     url: https://github.com/
     img: /images/logos/github.png
