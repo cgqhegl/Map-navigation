@@ -32,124 +32,83 @@ devTools:
     url: https://github.com/
     img: /images/logos/github.png
     description: 代码仓库
-  - name: Vercel
-    url: https://vercel.com/
-    img: /images/logos/vs.png
-    description: 
-  - name: 腾讯云
-    url: https://cloud.tencent.com/
-    img: /images/logos/txyun.png
-    description: 
-  - name: 阿里云
-    url: https://www.aliyun.com/
-    img: /images/logos/ali.png
-    description:
-  - name: Namecheap
-    url: https://www.namecheap.com/
-    img: /images/logos/namecheap.png
-    description:
-  - name: Cloudflare
-    url: https://dash.cloudflare.com/
-    img: /images/logos/cloudflare.png
-    description:
-  - name: Freenom
-    url: https://my.freenom.com/
-    img: /images/logos/freenom.png
-    description:    
-  - name: 百度站长
-    url: https://ziyuan.baidu.com/
-    img: /images/logos/baidu.png
-    description: 
-  - name: Google站长
-    url: https://search.google.com/search-console/about
-    img: /images/logos/google.png
-    description: 
-  - name: 站长工具
-    url: http://tool.chinaz.com/
-    img: /images/logos/zz.jpeg
-    description:
-  - name: V2EX
-    url: https://www.v2ex.com/
-    img: /images/logos/v2ex.png
-    description:
-  - name: Tinypng
-    url: https://tinypng.com/
-    img: /images/logos/tinypng.png
-    description:    
+  - name: Github
+    url: https://github.com/
+    img: /images/logos/github.png
+    description: 代码仓库
+  - name: Github
+    url: https://github.com/
+    img: /images/logos/github.png
+    description: 代码仓库
+  - name: Github
+    url: https://github.com/
+    img: /images/logos/github.png
+    description: 代码仓库
+  - name: Github
+    url: https://github.com/
+    img: /images/logos/github.png
+    description: 代码仓库
+  - name: Github
+    url: https://github.com/
+    img: /images/logos/github.png
+    description: 代码仓库
+  - name: Github
+    url: https://github.com/
+    img: /images/logos/github.png
+    description: 代码仓库
+  - name: Github
+    url: https://github.com/
+    img: /images/logos/github.png
+    description: 代码仓库
+  
 hotTools:
-  - name: Imgood Blog
-    url: https://www.imgood.top/
-    img: /images/logos/blog-logo.jpg
-    description: 我的博客
-  - name: 群晖DSM
-    url: https://nas.imgood.top:5001/
-    img: /images/logos/Settings.png
-    description: 群晖管理器
-  - name: 路由器
-    url: https://nas.imgood.top:8443/
-    img: /images/logos/Route.png
-    description: AC86U管理
-  - name: 图书站
-    url: https://nas.imgood.top:8083/
-    img: /images/logos/Calibre.png
-    description: Calibre-Web图书管理
-  - name: 影视站
-    url: https://nas.imgood.top:8920/
-    img: /images/logos/Emby.png
-    description: Emby影视管理
-  - name: PT下载
-    url: https://nas.imgood.top:8999/
-    img: /images/logos/QB.png
-    description: Qb下载管理
-  - name: 云盘
-    url: https://nas.imgood.top:5091/
-    img: /images/logos/yunpan.png
-    description: onedrive云盘
-  - name: 图床
-    url: https://nas.imgood.top:10000/
-    img: /images/logos/tuku.png
-    description: chevereto图床管理
-  - name: RSS阅读器
-    url: https://nas.imgood.top:5111/
-    img: /images/logos/ttrss.png
-    description: TTRSS订阅管理
-  - name: 本地管理页
-    url: https://nas.imgood.top:265/
-    img: /images/logos/bendi.png
-    description: 本地服务管理页    
+  - name: Github
+    url: https://github.com/
+    img: /images/logos/github.png
+    description: 代码仓库
+  - name: Github
+    url: https://github.com/
+    img: /images/logos/github.png
+    description: 代码仓库
+  - name: Github
+    url: https://github.com/
+    img: /images/logos/github.png
+    description: 代码仓库
+  - name: Github
+    url: https://github.com/
+    img: /images/logos/github.png
+    description: 代码仓库
+  - name: Github
+    url: https://github.com/
+    img: /images/logos/github.png
+    description: 代码仓库
+  - name: Github
+    url: https://github.com/
+    img: /images/logos/github.png
+    description: 代码仓库
+  - name: Github
+    url: https://github.com/
+    img: /images/logos/github.png
+    description: 代码仓库
+  - name: Github
+    url: https://github.com/
+    img: /images/logos/github.png
+    description: 代码仓库
+   
 news:
-  - name: 美国之音
-    url: https://www.voachinese.com/
-    img: /images/logos/voa.jpg
-    description: 中文
-  - name: BBC
-    url: https://www.bbc.com/zhongwen/simp
-    img: /images/logos/bbc.png
-    description: 中文
-  - name: 纽约时报
-    url: https://cn.nytimes.com/
-    img: /images/logos/newyork.png
-    description: 中文
-  - name: 路透社
-    url: https://cn.reuters.com/
-    img: /images/logos/reuters.png
-    description: 中文
-  - name: 华尔街日报
-    url: https://www.imgood.top/
-    img: /images/logos/wsj.png
-    description: 中文
-  - name: FT中文网
-    url: http://m.ftchinese.com/
-    img: /images/logos/ft.png
-    description: 中文  
-  - name: 联合早报
-    url: https://www.zaobao.com.sg/
-    img: /images/logos/zaobao.png
-    description: 中文
-  - name: 265上网导航
-    url: https://www.265.com
-    img: /images/logos/265.png
-    description:     
+  - name: Github
+    url: https://github.com/
+    img: /images/logos/github.png
+    description: 代码仓库
+  - name: Github
+    url: https://github.com/
+    img: /images/logos/github.png
+    description: 代码仓库
+  - name: Github
+    url: https://github.com/
+    img: /images/logos/github.png
+    description: 代码仓库
+  
 about:
   url: /about/
   icon: far fa-heart
