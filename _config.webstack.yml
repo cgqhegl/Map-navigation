@@ -60,12 +60,13 @@ devTools:
     url: https://github.com/
     img: /images/logos/github.png
     description: 代码仓库
-  
+    
+#我的网站
 hotTools:
-  - name: 极客角落geekyes
-    url: https://www.geekyes.com/
+  - name: ChatGPT
+    url: https://chat.scsn.top/
     img: /images/logos/blog-logo.png
-    description: 欢迎访问
+    description: ChatGPT国内平台
   - name: Github
     url: https://github.com/
     img: /images/logos/github.png
