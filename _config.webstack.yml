@@ -110,23 +110,23 @@ news:
     img: /images/logos/github.png
     description: 代码仓库
   
-about:
-  url: /about/
-  icon: far fa-heart
-  name: 关于本站
+# about:
+#   url: /about/
+#   icon: far fa-heart
+#   name: 关于本站
 
-aboutPage:
-  website:
-    head: 欢迎访问极客角落geekyes为您制作的示范导航页
-    html: '<blockquote><p>这是一个WebStack网址导航网站，源于ViggoZ的开源项目，开源地址<a href="https://github.com/WebStackPage/WebStackPage.github.io" target="_blank" rel="noopener">WebStackPage</a>。</p>
- 本导航站基于hexo博客程序、<a href="https://github.com/HCLonely/hexo-theme-webstack" target="_blank" rel="noopener">hexo-theme-webstack</a>主题模板、github、vercel 搭建而成。</p></blockquote>'
-  webmaster:
-    head: 关于主站
-    name: 极客角落geekyes
-    url: https://www.geekyes.com
-    img: /images/logos/blog-logo.png
-    description: 交流分享互联网科技
-    html: '<br /><blockquote><p>同时欢迎访问极客角落<a href="https://www.geekyes.com" target="_blank" rel="noopener"> geekyes</a> 获取更多内容。</p></blockquote>'
+# aboutPage:
+#   website:
+#     head: 本站使用Github+vercel同步搭建
+#     html: '<blockquote><p>这是一个WebStack网址导航网站，源于ViggoZ的开源项目，开源地址<a href="https://github.com/WebStackPage/WebStackPage.github.io" target="_blank" rel="noopener">WebStackPage</a>。</p>
+#  本导航站基于hexo博客程序、<a href="https://github.com/HCLonely/hexo-theme-webstack" target="_blank" rel="noopener">hexo-theme-webstack</a>主题模板、github、vercel 搭建而成。</p></blockquote>'
+#   webmaster:
+#     head: 关于主站
+#     name: 极客角落geekyes
+#     url: https://www.geekyes.com
+#     img: /images/logos/blog-logo.png
+#     description: 交流分享互联网科技
+#     html: '<br /><blockquote><p>同时欢迎访问极客角落<a href="https://www.geekyes.com" target="_blank" rel="noopener"> geekyes</a> 获取更多内容。</p></blockquote>'
 
 since: 2020
 
