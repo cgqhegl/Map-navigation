@@ -67,14 +67,14 @@ hotTools:
     url: https://chat.scsn.top/
     img: /images/logos/blog-logo.png
     description: ChatGPT国内平台
-  - name: Github
-    url: https://github.com/
+  - name: ChatGPT-2
+    url: https://chatgpt.scsn.top/
     img: /images/logos/github.png
-    description: 代码仓库
-  - name: Github
-    url: https://github.com/
+    description: ChatGPT国内平台-备用站点
+  - name: anse-ChatGPT
+    url: https://anse.scsn.top/
     img: /images/logos/github.png
-    description: 代码仓库
+    description: anse是一个ChatGPT国内的访问站点，可以画图和使用Stable Diffusion
   - name: Github
     url: https://github.com/
     img: /images/logos/github.png
