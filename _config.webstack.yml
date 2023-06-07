@@ -75,9 +75,9 @@ hotTools:
     url: https://anse.scsn.top/
     img: /images/logos/github.png
     description: anse是一个ChatGPT国内的访问站点，可以画图和使用Stable Diffusion
-  - name: Github
-    url: https://github.com/
-    img: /images/logos/github.png
+  - name: node.js
+    url: https://nodejs.org/dist/
+    img: https://nodejs.org/static/images/favicons/favicon.png
     description: 代码仓库
   - name: Github
     url: https://github.com/
